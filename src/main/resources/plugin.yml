@@ -1,0 +1,4 @@
+name: GhostPlayers1
+version: '${project.version}'
+main: dev.jqstln.ghostplayers.GhostPlayers1
+api-version: 1.13
