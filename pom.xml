@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>GhostPlayers1</name>
+    <name>GhostPlayers</name>
 
     <properties>
         <java.version>1.8</java.version>

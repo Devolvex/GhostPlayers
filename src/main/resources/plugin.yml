@@ -1,4 +1,4 @@
-name: GhostPlayers1
+name: GhostPlayers
 version: '${project.version}'
-main: dev.jqstln.ghostplayers.GhostPlayers1
+main: dev.jqstln.ghostplayers.GhostPlayers
 api-version: 1.13
