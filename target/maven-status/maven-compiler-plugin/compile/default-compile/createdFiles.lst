@@ -1,0 +1,4 @@
+dev\jqstln\ghostplayers\GameManager.class
+dev\jqstln\ghostplayers\CommandManager.class
+dev\jqstln\ghostplayers\GhostPlayers.class
+dev\jqstln\ghostplayers\commands\GhostPlayersCommand.class
